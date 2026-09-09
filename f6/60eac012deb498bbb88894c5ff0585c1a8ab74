@@ -1,0 +1,27 @@
+frameworks/keyed/marionette/package.json
+  s_c0990b979caa8f::t_4b21ff1b757713 19-22
+frameworks/keyed/marionette/.babelrc
+  s_c0990b979caa8f::t_4b21ff1b757713 2-3
+frameworks/keyed/marionette/src/Main.js
+  s_c0990b979caa8f::t_4b21ff1b757713 3-5,8-10,15,17,26,31-33,37,43-47,50,52,54-56,59-64,73-74,76,78-82,87,92,103-104,106-107,109-110,112-116,119,122-125,130-131,148
+frameworks/keyed/marionette/src/rowtemplate.js
+  s_c0990b979caa8f::t_4b21ff1b757713 2-3
+frameworks/keyed/marionette/package-lock.json
+  s_c0990b979caa8f::t_8b5c7276906c0e 11-14,1771-1841,2731-2741,2743-2744,2772-2775
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "f660eac012deb498bbb88894c5ff0585c1a8ab74",
+  "prompts": {},
+  "sessions": {
+    "s_c0990b979caa8f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0562b-3508-7373-abf2-ff7a7c69e8ac",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Paul Falgout <paul.falgout@roundingwell.com>"
+    }
+  }
+}
