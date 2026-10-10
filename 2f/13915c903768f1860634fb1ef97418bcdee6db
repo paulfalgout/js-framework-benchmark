@@ -1,0 +1,24 @@
+frameworks/keyed/marionette-backbone/package-lock.json
+  h_0f06c286dda36f 11,13,1772-1830,2745-2758,2761-2766
+frameworks/keyed/marionette-backbone/package.json
+  h_0f06c286dda36f 22,24
+frameworks/keyed/marionette-backbone/src/Main.js
+  h_0f06c286dda36f 4-5,9-10,105-106,109,114,122,127,131-132,137,150
+frameworks/keyed/marionette/package-lock.json
+  h_0f06c286dda36f 11-13,1806-1808,1811,1816,1819,1844-1846,1849,1852,1856-1858,1861,1864,1868-1870,1873,2852-2854,2861-2862,2865-2873
+frameworks/keyed/marionette/package.json
+  h_0f06c286dda36f 19-21
+frameworks/keyed/marionette/src/Main.js
+  h_0f06c286dda36f 62-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2f13915c903768f1860634fb1ef97418bcdee6db",
+  "prompts": {},
+  "humans": {
+    "h_0f06c286dda36f": {
+      "author": "Paul Falgout <paul.falgout@roundingwell.com>"
+    }
+  }
+}
